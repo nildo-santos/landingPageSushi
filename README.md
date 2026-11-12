@@ -1,5 +1,11 @@
 # Landing Page Sushi — Estudos de GSAP
 
+## Demonstração
+
+https://github.com/user-attachments/assets/57cfb68f-9430-498b-b2d0-56e5922492bf
+
+
+
 Este projeto é um exercício de estudo da biblioteca **GSAP (GreenSock Animation Platform)**, desenvolvido com HTML, CSS e JavaScript.
 
 O objetivo é praticar a criação e a sincronização de animações em uma landing page de um restaurante de sushi. O projeto tem finalidade educacional.
