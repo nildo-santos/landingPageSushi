@@ -31,4 +31,3 @@ O objetivo é praticar a criação e a sincronização de animações em uma lan
 
 Abra `index.html` no navegador ou utilize a extensão Live Server do VS Code.
 
-É necessário acesso à internet para carregar o GSAP pelo CDN e as fontes do Google Fonts.
